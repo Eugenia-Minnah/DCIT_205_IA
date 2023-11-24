@@ -9,4 +9,8 @@ Prerequisites:
 - Make sure you have Git installed on your machine. If not, you can download and install Git from the official website: https://git-scm.com/downloads
 - Ensure you have Node.js and npm (Node Package Manager) installed. You can download and install Node.js from the official website: https://nodejs.org
 
-
+Step 1:
+-Open a terminal or command prompt on your local machine.
+-Navigate to the directory where you want to clone the project.
+-Run the following command to clone the repository: git clone https://github.com/Eugenia-Minnah/DCIT_205_IA.git
+step 2:
