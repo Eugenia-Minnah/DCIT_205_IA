@@ -28,5 +28,14 @@ Name And Student ID:
 Name- Eugenia Adwoa Minnah
 Student ID- 11156875
 
-
-
+Screenshot of each page of my website:
+![Home](<image/home page screenshot.png>)
+![About](<image/About page screenshot.png>)
+![Courses](<image/courses page.png>)
+![Faculty](<image/faculty page.png>)
+![Labs](<image/Labs page.png>)
+![Library](<image/Library page.png>)
+![Events](<image/Events page.png>)
+![News](<image/News page.png>)
+![Terms and Conditions](<image/Terms and Conditions page.png>)
+![Contact](<image/contact page.png>)
