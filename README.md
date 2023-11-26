@@ -39,3 +39,10 @@ Screenshot of each page of my website:
 ![News](<image/News page.png>)
 ![Terms and Conditions](<image/Terms and Conditions page.png>)
 ![Contact](<image/contact page.png>)
+
+Throughout the development of this website, I have gained valuable 
+knowledge and insights and learned several lessons. Working on this project 
+has helped me learn how to create a website from scratch and has also helped me know
+more about Github such as, making a pull request, forking, making commits and more.
+These project has not only enhanced my technical skills but also provided me with depeer 
+understanding of user-centric design, and project planning.
