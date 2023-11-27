@@ -6,14 +6,14 @@ body {
 
 nav {
   display: flex;
-  background-color: #3498db;
+  background-color: #3775b3;
   padding-top: 10px;
   padding-bottom: 10px;
   justify-content: space-between;
   text-align: center;
 }
 video{
-  background-color: rgb(231, 146, 43);
+  background-color: rgb(102, 99, 96);
 }
 
 .logo{
@@ -65,9 +65,12 @@ section {
 }
 
 footer {
-  margin-top: 50px;
-  text-align: center;
+  margin-top: 100px;
+  text-align: left;
   padding: 10px;
   background-color: #3498db;
   color: white;
+}
+p{
+  text-align: justify;
 }
